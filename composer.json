@@ -1,5 +1,5 @@
 {
-    "name": "JKooll/upyun-sdk",
+    "name": "jkooll/upyun-sdk",
     "description": "UPYUN sdk for php",
     "keywords": ["UPYUN", "sdk"],
     "type": "library",
